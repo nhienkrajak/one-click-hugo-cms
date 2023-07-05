@@ -1,7 +1,7 @@
 ---
-title: A day in Garden
-date: 2023-07-05T06:34:38.950Z
-description: Another day in Heaven
+title: Blockcain loyalty
+date: 2023-07-05T06:36:48.595Z
+description: Blockchain loyalty
 ---
 A loyalty platform using blockchain technology is a system that leverages the features of blockchain, such as decentralization, transparency, security, and immutability, to create and manage loyalty programs for customers. Loyalty programs are schemes that reward customers for their repeated purchases or interactions with a brand or a business.
 
